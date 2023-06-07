@@ -5,9 +5,10 @@ Real-time face detection and emotion classification using a keras CNN model and 
 - Emotion Detection
 Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image. There key points to be followed are:
 
-- Data gathering and augmentation
+- Data 
 
-The dataset taken was [ pull nategreb/emotion-detection.](https://www.kaggle.com/code/nategreb/emotion-detection/input).
+The dataset taken was https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+
 
 - Model building
 
@@ -41,18 +42,7 @@ The model will be able to detect 7 types of emotions:
 
 - Neutral :
  
- 
+ ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/e6d8e6a5-a340-4bff-a03a-64953dbec0eb)
 
--    , Disgust ,  , Fear , and 
-Usage:
-For Face Detection, and Emotion Detection Code
-Refer to the notebook /Emotion_Detection.ipynb.
-I have trained an emotion detection model and put its trained weights at /Models
 
-Train your Emotion Detection Model
-To train your own emotion detection model, Refer to the notebook /facial_emotion_recognition.ipynb
-
-For Emotion Detection using Webcam
-Clone the repo:
-Run pip install -r requirements.txt
- python Emotion_Detection.py
+- Disgust , Fear 
