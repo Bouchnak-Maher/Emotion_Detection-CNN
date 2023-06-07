@@ -16,7 +16,7 @@ The model architecture consists of CNN Layer, Max Pooling, Flatten and Dropout L
 
 - Training
 
-The model was trained by using variants of above layers mentioned in model building and by varying hyperparameters. The best model was able to achieve 60.1% of validation accuracy.
+The model was trained by using variants of above layers mentioned in model building and by varying hyperparameters. The best model was able to achieve 75.1% of validation accuracy.
 
 - Testing
 
@@ -46,5 +46,5 @@ The model will be able to detect 7 types of emotions:
 
 
 - Fear:
-- ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/e8723a23-9798-465a-ad33-772c3fd06229)
+ ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/e8723a23-9798-465a-ad33-772c3fd06229)
  
