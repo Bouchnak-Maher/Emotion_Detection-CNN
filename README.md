@@ -39,7 +39,11 @@ The model will be able to detect 7 types of emotions:
 
 ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/71b6a316-3d2a-4216-a373-f80cf2a85ba9)
 
-- , Neutral , Disgust ,  , Fear , and 
+- Neutral :
+ 
+ 
+
+-    , Disgust ,  , Fear , and 
 Usage:
 For Face Detection, and Emotion Detection Code
 Refer to the notebook /Emotion_Detection.ipynb.
