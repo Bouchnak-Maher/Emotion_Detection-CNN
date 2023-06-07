@@ -45,4 +45,6 @@ The model will be able to detect 7 types of emotions:
  ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/e6d8e6a5-a340-4bff-a03a-64953dbec0eb)
 
 
-- Disgust , Fear 
+- Fear:
+- ![detectedimg](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/e8723a23-9798-465a-ad33-772c3fd06229)
+ 
