@@ -24,6 +24,7 @@ The model was tested with sample images.
 
 The model will be able to detect 7 types of emotions:
 - Angry:
+<img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/12ec5aec-aa3f-430d-bc69-9f7ed6425413" width="200" height="200">
 
 ![angry](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/12ec5aec-aa3f-430d-bc69-9f7ed6425413)
 
