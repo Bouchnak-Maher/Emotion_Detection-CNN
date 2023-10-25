@@ -26,28 +26,32 @@ The model will be able to detect 7 types of emotions:
 - Angry:
 <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/12ec5aec-aa3f-430d-bc69-9f7ed6425413" width="200" height="200">
 
-![angry](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/12ec5aec-aa3f-430d-bc69-9f7ed6425413)
+
 
 - Sad : 
- 
-![sad](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/35980614-cba7-4367-a338-a6bf59fcbf3c)
+ <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/35980614-cba7-4367-a338-a6bf59fcbf3c" width="200" height="200">
+
+
 
 
 - Surprise:
+<img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/d52130a7-8333-4e28-9554-e53f470d6c7b" width="200" height="200">
 
-![surprise](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/d52130a7-8333-4e28-9554-e53f470d6c7b)
 
 - Happy:
+<img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/2dcb8110-fc5e-4df2-9019-c7dc16389a63" width="200" height="200">
 
-![happy](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/2dcb8110-fc5e-4df2-9019-c7dc16389a63)
+
 
 - Neutral :
- 
-![naturel](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/d8765534-9790-46d7-91ba-95daed8c3656)
+ <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/d8765534-9790-46d7-91ba-95daed8c3656" width="200" height="200">
+
+
 
 
 - Fear:
 
+<img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/8a8bdd24-bad7-4511-a388-53bb64cb9d28" width="200" height="200">
 
-![fear](https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/8a8bdd24-bad7-4511-a388-53bb64cb9d28)
+
  
