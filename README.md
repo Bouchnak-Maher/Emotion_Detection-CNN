@@ -22,7 +22,7 @@ The model was trained by using variants of above layers mentioned in model build
 
 The model was tested with sample images.
 
-The model will be able to detect 7 types of emotions:
+The model will be able to detect 6 types of emotions:
 | Emotion   | Image                                                                                                     | Emotion   | Image                                                                                                     | Emotion   | Image                                                                                                     |
 | --------- | --------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------- |
 | Angry     | <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/12ec5aec-aa3f-430d-bc69-9f7ed6425413" width="200" height="300"> | Sad       | <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/35980614-cba7-4367-a338-a6bf59fcbf3c" width="200" height="300"> | Surprise  | <img src="https://github.com/Bouchnak-Maher/Emotion_Detection-CNN/assets/94197705/d52130a7-8333-4e28-9554-e53f470d6c7b" width="200" height="300"> |
